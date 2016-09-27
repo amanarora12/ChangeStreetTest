@@ -11,4 +11,6 @@
 
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
+    <string name="main_text">Transfer amount INR 500 from Account xxxx1234
+to xxxx2314</string>
 </resources>
