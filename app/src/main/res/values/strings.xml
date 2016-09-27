@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChangeStreetTest</string>
+
+    <string-array name="MenuItemNames">
+        <item>Dining</item>
+        <item>Travel</item>
+        <item>Education</item>
+        <item>Services</item>
+        <item>Utilities</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
